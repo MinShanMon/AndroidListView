@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">UI_ControlDemo</string>
+    <string name="save">Save</string>
+    <string name="confirm_save">Do you wish to save your work?</string>
+</resources>
